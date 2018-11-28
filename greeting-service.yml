@@ -13,4 +13,4 @@ eureka:
 
 # properties
 hello-service:
-  username: Victoria
+  usrname: Victoria
